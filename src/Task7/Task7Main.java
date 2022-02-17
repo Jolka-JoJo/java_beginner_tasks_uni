@@ -2,9 +2,6 @@ package Task7;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class Task7Main {
